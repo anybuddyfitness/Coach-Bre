@@ -1,0 +1,6 @@
+diff --git a/functions/index.js b/functions/index.js
+index be92d33..f3139db 100644
+--- a/functions/index.js
++++ b/functions/index.js
+@@ -12,6 +12,7 @@
+...
